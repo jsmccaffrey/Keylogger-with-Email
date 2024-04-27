@@ -1,0 +1,7 @@
+C:\Users\jsmcc\Desktop\Code\Keylogger with Email\mykeylogger\mykeylogger\bin\Debug\mykeylogger.exe.config
+C:\Users\jsmcc\Desktop\Code\Keylogger with Email\mykeylogger\mykeylogger\bin\Debug\mykeylogger.exe
+C:\Users\jsmcc\Desktop\Code\Keylogger with Email\mykeylogger\mykeylogger\bin\Debug\mykeylogger.pdb
+C:\Users\jsmcc\Desktop\Code\Keylogger with Email\mykeylogger\mykeylogger\obj\Debug\mykeylogger.csproj.AssemblyReference.cache
+C:\Users\jsmcc\Desktop\Code\Keylogger with Email\mykeylogger\mykeylogger\obj\Debug\mykeylogger.csproj.CoreCompileInputs.cache
+C:\Users\jsmcc\Desktop\Code\Keylogger with Email\mykeylogger\mykeylogger\obj\Debug\mykeylogger.exe
+C:\Users\jsmcc\Desktop\Code\Keylogger with Email\mykeylogger\mykeylogger\obj\Debug\mykeylogger.pdb
